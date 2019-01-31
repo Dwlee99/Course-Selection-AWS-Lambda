@@ -1,0 +1,183 @@
+Foundations of Art	8025	Academic	N	N	Art	1	Freshman	Senior	N/A	"Clay,Intro to Graphic Design"		
+Clay	8045	Academic	N	N	Art	1	Sophomore	Senior	Foundations of Art	"Clay II/Scultpure, Art Minor, Art Major I"		
+Intro to Graphic Design	8030	Academic	N	N	Art	1	Sophomore	Senior	Foundations of Art	Graphic Design		
+Graphic Design I	8031	Academic	N	N	Art	1	Junior	Senior	Intro to Graphic Design	N/A		
+Clay II/Sculpture	8044	Academic	N	N	Art	1	Junior	Senior	Clay	N/A		
+Digital Photography	8050	Academic	N	N	Art	1	Junior	Senior	N/A	N/A		
+Art Minor	8040	Academic	N	N	Art	1	Sophomore	Senior	Foundations of Art	N/A		
+Art Major I	8010	Academic	N	N	Art	1	Sophomore	Senior	Foundations of Art	Art Major II		
+Art Major II	8011	Academic	N	N	Art	1	Junior	Senior	Art Major I	AP Studio Art Drawing		
+AP Studio Art Drawing	8099	Advanced Placement	N	N	Art	1	Junior	Senior	Art Major II	N/A		
+Accounting I	5570	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	Accounting II		
+Accounting II	5580	College Prep	N	N	Technology	1	Junior	Senior	Accounting I	N/A		
+Introduction to Business	5640	College Prep	N	N	Technology	1	Freshman	Senior	N/A	N/A		
+Business Apps. w/ Certification	5140	College Prep	N	N	Technology	1	Freshman	Senior	N/A	N/A		
+Personal Finance / Business Law	5650	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	N/A		
+Sports and Entertainment Marketing and Management	5110	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	N/A		
+Intro to Marketing and Management	5653	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	N/A		
+Web Design	5225	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	N/A		
+Creative Computing	5131	Honors	N	N	Technology	1	Freshman	Senior	N/A	N/A		
+Education-At-Work	5660	College Prep	N	N	Technology	Arrg	Senior	Senior	N/A	N/A		
+Intro to Programming Through Games and Apps	5224	College Prep	N	N	Technology	0.5	Freshman	Senior	N/A	N/A		
+Introduction to Computer Hardware and Principles	5223	College Prep	N	N	Technology	0.5	Freshman	Senior	N/A	N/A		
+AP Computer Science Principles	5297	Advanced Placement	N	N	Technology	1	Freshman	Senior	Algebra II	N/A		
+AP Computer Science A	5299	Advanced Placement	N	N	Technology	1	Sophomore	Senior	Algebra II	N/A		
+Yearbook/The Voyager	8802	College Prep	N	N	Technology	1	Junior	Senior	Graphic Design I	TV Production		
+Television Production	8810	College Prep	N	N	Technology	0.5	Sophomore	Senior	Yearbook/The Voyager	N/A		
+Advanced Media Broadcasts	8813	College Prep	N	N	Technology	1	Junior	Senior	TV Production	N/A		
+English 9 Academic	1109	Academic	Y	N	English	1	Freshman	Freshman	N/A	N/A		
+English 9 College Prep	1009	College Prep	Y	N	English	1	Freshman	Freshman	N/A	N/A		
+Honors English 9	1849	Honors	Y	N	English	1	Freshman	Freshman	N/A	N/A		
+Gifted Honors English 9	1996	Honors	Y	Y	English	1	Freshman	Freshman	N/A	N/A		
+English 10 Academic	1110	Academic	Y	N	English	1	Sophomore	Sophomore	N/A	N/A		
+English 10 College Prep	1010	College Prep	Y	N	English	1	Sophomore	Sophomore	N/A	N/A		
+Honors English 10	1850	Honors	Y	N	English	1	Sophomore	Sophomore	N/A	N/A		
+Gifted Honors English 10	1997	Honors	Y	Y	English	1	Sophomore	Sophomore	N/A	N/A		
+English 11 Academic	1111	Academic	Y	N	English	1	Junior	Junior	N/A	N/A		
+English 11 College Prep	1011	College Prep	Y	N	English	1	Junior	Junior	N/A	N/A		
+Honors English 11	1851	Honors	Y	N	English	1	Junior	Junior	N/A	N/A		
+AP English: Language and Composition	1998	Advanced Placement	Y	N	English	1	Junior	Junior	N/A	N/A		
+English 12 Academic	1112	Academic	Y	N	English	1	Senior	Senior	N/A	N/A		
+English 12 College Prep	1012	College Prep	Y	N	English	1	Senior	Senior	N/A	N/A		
+Honors English 12	1852	Honors	Y	N	English	1	Senior	Senior	N/A	N/A		
+AP English: Literature and Composition	1999	Advanced Placement	Y	N	English	1	Senior	Senior	N/A	N/A		
+Contemporary English Studies	1545	College Prep	N	N	English	1	Junior	Senior	N/A	N/A		
+Creative Writing	1500	College Prep	N	N	English	0.5	Sophomore	Senior	N/A	N/A		
+Reading and Writing Honors Workshop	1503	Honors	N	N	English	1	Senior	Senior	N/A	N/A		
+Design Lab 1	1547	College Prep	N	N	English	1	Junior	Senior	N/A	N/A		
+Public Speaking	1520	College Prep	N	N	English	0.5	Sophomore	Senior	N/A	N/A		
+Journalism	1532	College Prep	N	N	English	1	Junior	Senior	N/A	N/A		
+Film Studies	1542	College Prep	N	N	English	0.5	Junior	Senior	N/A	N/A		
+Theatre Studies	1543	College Prep	N	N	English	0.5	Junior	Senior	N/A	N/A		
+Nova Lab	1547	College Prep	N	N	English	1	Junior	Senior	N/A	N/A		
+Writing Naturally	1545	College Prep	N	N	English	0.5	Sophomore	Senior	N/A	N/A		
+French I	6009	College Prep	N	N	Language	1	Freshman	Senior	N/A	French II		
+French II	6010	College Prep	N	N	Language	1	Freshman	Senior	N/A	French III		
+French III	6011	College Prep	N	N	Language	1	Sophomore	Senior	French II	French IV		
+French IV	6012	College Prep	N	N	Language	1	Junior	Senior	French III	French V		
+French V	6013	College Prep	N	N	Language	1	Junior	Senior	French IV	N/A		
+Honors French II	6022	Honors	N	N	Language	1	Freshman	Senior	N/A	French III		
+Honors French III	6023	Honors	N	N	Language	1	Sophomore	Senior	French II	French IV		
+Honors French IV	6024	Honors	N	N	Language	1	Junior	Senior	French III	AP French Language and Culture		
+AP French Language and Culture	6099	Advanced Placement	N	N	Language	1	Junior	Senior	Honors French IV	N/A		
+German I	6509	College Prep	N	N	Language	1	Freshman	Senior	N/A	German II		
+German II	6510	College Prep	N	N	Language	1	Freshman	Senior	German I	German III		
+German III	6511	College Prep	N	N	Language	1	Sophomore	Senior	German II	German IV		
+German IV	6512	College Prep	N	N	Language	1	Junior	Senior	German III	German V		
+German V	6513	College Prep	N	N	Language	1	Senior	Senior	German IV	N/A		
+Honors German II	6520	Honors	N	N	Language	1	Freshman	Senior	German I	N/A		
+Honors German III	6530	Honors	N	N	Language	1	Sophomore	Senior	German II	N/A		
+Honors German IV	6540	Honors	N	N	Language	1	Junior	Senior	German III	AP German Language and Culture		
+AP German Language and Culture	6599	Advanced Placement	N	N	Language	1	Senior	Senior	Honors German IV	N/A		
+Spanish I	6609	College Prep	N	N	Language	1	Freshman	Senior	N/A	Spanish II		
+Spanish II	6610	College Prep	N	N	Language	1	Freshman	Senior	Spanish I	Spanish III		
+Spanish III	6611	College Prep	N	N	Language	1	Sophomore	Senior	Spanish II	Spanish IV		
+Spanish IV	6612	College Prep	N	N	Language	1	Junior	Senior	Spanish III	Spanish V		
+Spanish V	6613	College Prep	N	N	Language	1	Senior	Senior	Spanish IV	N/A		
+Honors Spanish II	6622	Honors	N	N	Language	1	Freshman	Senior	Spanish I	Honors Spanish III		
+Honors Spanish III	6623	Honors	N	N	Language	1	Sophomore	Senior	Honors Spanish II	Honors Spanish IV		
+Honors Spanish IV	6625	Honors	N	N	Language	1	Junior	Senior	Honors Spanish III	AP Spanish Language and Culture		
+AP Spanish Language and Culture	6699	Advanced Placement	N	N	Language	1	Senior	Senior	Honors Spanish IV	N/A		
+MCCC Elementary Mandardin Chinese I	9619	College Prep	N	N	Language	1	Sophomore	Senior	N/A	N.A		
+Physical Education/Swimming	9016	Academic	N	N	Physical Education	0.33	Freshman	Senior	N/A	N/A		
+Physical Education/Swimming	9017	Academic	N	N	Physical Education	0.5	Freshman	Senior	N/A	N/A		
+Physical Education/Swimming	9018	Academic	N	N	Physical Education	0.83	Freshman	Senior	N/A	N/A		
+Health	9050	Academic	N	N	Health	0.5	Freshman	Freshman	N/A	N/A		
+Health	9070	Academic	N	N	Health	0.5	Sophomore	Sophomore	N/A	N/A		
+"Walk, Run, Jog"	9022	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Cycling / Fitness	9024	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Get Fit	9025	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Basketball / VolleyBall	9030	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Physical Education	9012	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Racquet Sports	9026	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Martial Arts and Self-Defense I	9027	Academic	N	N	Physical Education	0.33	Sophomore	Senior	N/A	Self-Defense Tactics II		
+Self-Defense Tactics II	9029	Academic	N	N	Physical Education	0.33	Junior	Senior	Martial Arts and Self-Defense I	N/A		Y
+Competitive Team Sports	9028	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Football From A-Z	9029	Academic	N	N	Physical Education	0.5	Junior	Senior	N/A	N/A		Y
+Strength Training and Conditioning	9023	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Elite Team Sports	9035	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Volleyball	9031	Academic	N	N	Physical Education	0.33	Junior	Senior	N/A	N/A		
+Algebra IA	3011	Academic	Y	N	Mathematics	1	Freshman	Senior	N/A	Algebra IB		
+Algebra IB	3002	Academic	Y	N	Mathematics	1	Freshman	Senior	Algebra IA	Geometry		
+Algebra I Prep	3009	Academic	Y	N	Mathematics	1	Freshman	Senior	N/A	Geometry		
+Keystone Algebra	3300	Academic	Y	N	Mathematics	1	Freshman	Senior	N/A	N/A		
+Algebra II Academic	3021	Academic	Y	N	Mathematics	1	Freshman	Senior	Geometry	"Trigonometry, Pre-Calculus"		
+Algebra II Prep	3011	College Prep	Y	N	Mathematics	1	Freshman	Senior	Geometry	"Trigonometry, Pre-Calculus"		
+Honors Algebra II	3702	Honors	Y	N	Mathematics	1	Freshman	Senior	Geometry	"Trigonometry, Pre-Calculus"		
+Academic Geometry	3150	Academic	Y	N	Mathematics	1	Freshman	Senior	Algebra I	Algebra II		Y
+Prep Geometry	3010	College Prep	Y	N	Mathematics	1	Freshman	Senior	Algebra I	Algebra II		
+Honors Geometry	3150	Honors	Y	N	Mathematics	1	Freshman	Senior	Algebra I	Algebra II		Y
+Trigonometry/Algebra III Academic	3022	Academic	Y	N	Mathematics	1	Freshman	Senior	Algebra II	Calculus
+Trigonometry/Algebra III Prep	3012	College Prep	Y	N	Mathematics	1	Freshman	Senior	Algebra II	Calculus		
+Discrete Mathematics	3013	College Prep	Y	N	Mathematics	1	Freshman	Senior	Algebra II	N/A		
+Honors Pre-Calculus	3705	Honors	Y	N	Mathematics	1	Freshman	Senior	Algebra II	AP Calculus AB, Calculus
+Honors Calculus	3014	Honors	Y	N	Mathematics	1	Freshman	Senior	Pre-Calculus	AP Calculus AB		
+AP Calculus AB	3999	Advanced Placement	Y	N	Mathematics	1	Freshman	Senior	Pre-Calculus	AP Calculus BC		
+AP Calculus BC	3997	Advanced Placement	Y	N	Mathematics	1	Freshman	Senior	AP Calculus AB	N/A		
+Statistics	3704	College Prep	Y	N	Mathematics	1	Freshman	Senior	Algebra II	N/A		
+AP Statistics	3998	Advanced Placement	Y	N	Mathematics	1	Freshman	Senior	Algebra II	N/A		
+Band Major I	8609	College Prep	N	N	Music	1	Freshman	Sophomore	N/A	Band Major I		
+Chorus Major I	8609	College Prep	N	N	Music	1	Freshman	Sophomore	N/A	Chorus Major I		
+Orchestra Major I	8609	College Prep	N	N	Music	1	Freshman	Sophomore	N/A	Orchestra Major I		
+Band Major II	N/A	College Prep	N	N	Music	1	Junior	Senior	Band Major I	N/A		
+Chorus Major II	N/A	College Prep	N	N	Music	1	Junior	Senior	Chorus Major I	N/A		
+Orchestra Major II	N/A	College Prep	N	N	Music	1	Junior	Senior	Orchestra Major I	N/A		
+AP Music Theory	8699	Advanced Placement	N	N	Technology	1	Junior	Senior	Music Theory II	N/A		
+Music Theory I	8631	College Prep	N	N	Music	0.5	Sophomore	Senior	N/A	Music Theory II		
+Music Theory II	8632	College Prep	N	N	Music	0.5	Sophomore	Senior	Music Theory I	AP Music Theory		
+Earth Systems Prep	4009	College Prep	Y	N	Science	1	Freshman	Freshman	N/A	Biology		
+Earth Systems Honors	4029	Honors	Y	N	Science	1	Freshman	Freshman	N/A	Biology		
+Biology Prep	4012	College Prep	Y	N	Science	1	Freshman	Sophomore	N/A	"AP Biology, Environmental Science, Forensic Science, Zoology, Human Genetics"		
+Honors Biology	4032	Honors	Y	N	Science	1	Sophomore	Sophomore	N/A	"Environmental Science, Forensic Science, Zoology, Human Genetics"		
+AP Biology	4999	Advanced Placement	Y	N	Science	1.17	Junior	Senior	"Biology, Chemistry"	N/A		
+Environmental Science	4400	College Prep	Y	N	Science	1	Junior	Senior	Biology	N/A		
+AP Environmental Science	4496	Advanced Placement	Y	N	Science	1.17	Junior	Senior	"Biology, Chemistry"	N/A		
+Honors Anatomy and Physiology	4525	Honors	Y	N	Science	1.17	Junior	Senior	N/A	N/A		
+Academic Chemistry	4112	Academic	Y	N	Science	1	Junior	Senior	N/A	N/A		
+Prep Chemistry	4111	College Prep	Y	N	Science	1.17	Junior	Senior	N/A	N/A		
+Honors Chemistry	4115	Honors	Y	N	Science	1.17	Sophomore	Senior	N/A	AP Chemistry		Y
+AP Chemistry	4998	Advanced Placement	Y	N	Science	1.17	Junior	Senior	Honors Chemistry	N/A		
+Applied Physics	4201	Academic	Y	N	Science	1	Junior	Senior	N/A	N/A		
+Physics Prep	4013	College Prep	Y	N	Science	1.17	Junior	Senior	N/A	N/A		
+Honors Physics	4025	Honors	Y	N	Science	1.17	Junior	Senior	N/A	"AP Physics II, AP Physics C"
+AP Physics I	4991	Advanced Placement	Y	N	Science	1.17	Sophomore	Senior	N/A	"AP Physics II, AP Physics C"
+AP Physics II	4992	Advanced Placement	Y	N	Science	1.17	Junior	Senior	Physics	AP Physics C		
+AP Physics C	4993	Advanced Placement	Y	N	Science	1.17	Junior	Senior	"AP Physics I"	N/A
+Honors Advanced Geosciences	4410	Honors	Y	N	Science	1	Junior	Senior	N/A	N/A		Y
+Honors Allied Health /N.M.T.C.C.	N/A	Honors	Y	N	Science	2	Senior	Senior	N/A	N/A		
+Honors Biotechnology/N.M.T.C.C.	N/A	Honors	Y	N	Science	2	Senior	Senior	NA	N/A		
+Advanced Astronomy	N/A	Honors	Y	N	Science	0.5	Sophomore	Senior	N/A	N/A		
+Advanced Meteorology	N/A	Honors	Y	N	Science	0.5	Sophomore	Senior	N/A	N/A		
+Forensic Science	4033	College Prep	Y	N	Science	1	Junior	Senior	Biology	N/A		
+Zoology	4034	College Prep	Y	N	Science	1	Sophomore	Senior	Biology	N/A		
+Human Genetics	4561	College Prep	Y	N	Science	0.5	Sophomore	Senior	Biology	N/A		
+European Studies Academic	2420	Academic	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+European Studies Prep	2421	College Prep	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+Honors European Studies	2422	Honors	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+Global Studies Academic	2471	Academic	Y	N	Social Studies	1	Junior	Senior	N/A	N/A		
+Global Studies Prep	2472	College Prep	Y	N	Social Studies	1	Junior	Senior	N/A	N/A		
+Honors Global Studies	2473	Honors	Y	N	Social Studies	1	Junior	Senior	N/A	N/A		
+Government and Economics	2010	College Prep	Y	N	Social Studies	1	Senior	Senior	N/A	N/A		
+Honors Government and Economics	2011	Honors	Y	N	Social Studies	1	Senior	Senior	N/A	N/A		
+Economics	2012	College Prep	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+Academic American History	2019	Academic	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+Prep American History	2020	College Prep	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+Honors American History	2021	Honors	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+AP US History	2999	Advanced Placement	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+AP European History	2998	Advanced Placement	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+AP Human Geography	2997	Advanced Placement	Y	N	Social Studies	1	Sophomore	Senior	N/A	N/A		
+AP US Government and Politics	2995	Advanced Placement	Y	N	Social Studies	1	Freshman	Senior	N/A	N/A		
+AP Psychology	2996	Advanced Placement	N	N	Social Studies	1	Junior	Senior	N/A	N/A		
+Gifted Leadership Seminar	9911	College Prep	N	Y	Social Studies	0.5	Junior	Senior	N/A	N/A		
+Gifted Current Events and Success Beyond the Classroom	9912	College Prep	N	Y	Social Studies	0.5	Junior	Senior	N/A	N/A		
+Industrial Print Graphics	7513	College Prep	N	N	Technology	1	Freshman	Senior	N/A	N/A		
+Introduction to Manufacturing	7502	College Prep	N	N	Technology	1	Freshman	Senior	N/A	N/A		
+Advanced Manufacturing	7517	College Prep	N	N	Technology	1	Sophomore	Senior	N/A	N/A		
+Manufacturing and Construction	7518	College Prep	N	N	Technology	1	Junior	Senior	N/A	N/A		Y
+Precision Machining and 3-D Printing	7542	College Prep	N	N	Technology	0.5	Junior	Senior	N/A	N/A		
+Honors Intro. Engineering Design	7552	Honors	N	N	Technology	1	Freshman	Senior	N/A	Honors Principles of Engineering		
+Honors Principles of Engineering	7536	Honors	N	N	Technology	1	Sophomore	Senior	N/A	Honors Civil Engineering and Architecture		
+Honors Civil Engineering and Architecture	7546	Honors	N	N	Technology	1	Junior	Senior	N/A	Honors Digital Electronics		
+Honors Digital Electronics	7544	Honors	N	N	Technology	1	Junior	Senior	N/A	N/A		
+Leadership Seminar	9911	College Prep	N	Y	Humanities	0.5	Junior	Senior	N/A	N/A		
+Current Events and Success Beyond the Classroom	9912	College Prep	N	Y	Humanities	0.5	Junior	Senior	N/A	N/A		
